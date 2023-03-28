@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-I am a highly motivated data science student passionate about using data to drive insights and improve business performance. I am exploring new tools and ways to improve my skills every day. With a good knowledge of statistics, machine learning, and data visualization, I am flexible in exploring new libraries and information for solving various tasks. I always ensure to get things done on time and stay updated about the current scenarios, tools, and techniques used in the industry.<br><br>As a data science aspirant, I am working harder on various projects, from analyzing datasets in python and SQL to visualizations in PowerBI and Tableau. I am always seeking opportunities to apply my skills and gain new knowledge by providing meaningful contributions to organizations.
+I am a highly motivated data science student passionate about using data to drive insights and improve business performance. I am exploring new tools and ways to improve my skills every day. With a good knowledge of statistics, machine learning, and data visualization, I am flexible in exploring new libraries and information for solving various tasks. I always ensure to get things done on time and stay updated about the current scenarios, tools, and techniques used in the industry.<br><br>As a data science aspirant, I am working harder on various projects, from analyzing datasets in python and SQL to visualizations in PowerBI and Tableau. I am always seeking opportunities to apply my skills and explore new domains.
 
 
 # 💻 Tech Stack:
