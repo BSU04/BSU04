@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Balu S Unny</h1>
 <h3 align="center">An Aspiring Data Science Student from India</h3>
 
