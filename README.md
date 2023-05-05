@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Balu S Unny</h1>
 <h3 align="center">An Aspiring Data Science Student from India</h3>
 
-- 🔭 I’m currently working on [Exploratory Data Analysis on Global Air Pollution](https://github.com/BSU04/global-air-pollution)
+- 🔭 I’m currently working on [Exploratory Data Analysis - Global Air Pollution](https://github.com/BSU04/global-air-pollution)
 
-- 🌱 I’m currently learning **Natural Language Processing**
+- 🌱 I’m currently learning **Natural Language Processing (NLP)**
 
 - 📫 How to reach me **itsmebalu05@gmail.com**
 <p align="left">
