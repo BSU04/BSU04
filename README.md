@@ -7,6 +7,10 @@
 
 - 🌱 I’m currently learning **Natural Language Processing (NLP)**
 
+- 👯 I’m looking to collaborate on **Machine Learning Projects**
+
+- 💬 Ask me about **Analytics**
+
 - 📫 How to reach me **itsmebalu05@gmail.com**
 <p align="left">
 </p>
