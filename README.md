@@ -1,4 +1,4 @@
-<img src="https://t4.ftcdn.net/jpg/04/35/31/47/360_F_435314769_TXsKQ6aQfoHMZJfGcXtaXhyoY7iHK3ld.jpg" width=100% height=20%><br>
+<img src="https://technationcanada.ca/wp-content/uploads/2022/08/iTOTEM-Spotlight-BlogBanner.jpg" width=100%><br>
 
 <h1 align="center">Hi 👋, I'm Balu S Unny</h1>
 <h3 align="center">An Aspiring Data Science Student from India</h3>
