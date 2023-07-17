@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Balu S Unny</h1>
 <h3 align="center">An Aspiring Data Science Student from India</h3>
 
-- 🔭 I’m currently working on Fake News Detection Using NLP
+- 🔭 I’m currently working on **Fake News Detection Using NLP**
 
 - 🌱 I’m currently learning **Natural Language Processing (NLP)**
 
