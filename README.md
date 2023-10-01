@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Sentiment Analysis using NLP**
 
-- 🌱 I’m currently learning **Natural Language Processing (NLP)**
+- 🌱 I’m currently learning **Natural Language Processing**
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 
