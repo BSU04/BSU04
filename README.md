@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Balu S Unny</h1>
 <h3 align="center">An Aspiring Data Analyst from India</h3>
 
-- 🔭 I’m currently working on **Sentiment Analysis using NLP**
+- 🔭 I’m currently working on **Sentiment Analysis**
 
 - 🌱 I’m currently learning **Natural Language Processing**
 
